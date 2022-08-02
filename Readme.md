@@ -3,11 +3,12 @@
 
 - By Nihal Siddiqui
 
-> live priview [Link](https://lcoistrending.netlify.app/)
+> live priview [Link](https://fullstack-js-project-01.netlify.app/)
 
 > Project Preview
 
-![](./assets/01Project.png)
+![preview](./assets/01Project.png)
+
 
 
 > ## What l learned from this Project?
